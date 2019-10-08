@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_","ns":"mongodb_tutorial.testCollection"}],"uuid":"48097011c7ff478c8e28b0e6cd7ab5bb"}
